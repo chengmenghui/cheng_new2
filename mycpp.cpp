@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	return 0;OB
+	return 0;
 }
 
